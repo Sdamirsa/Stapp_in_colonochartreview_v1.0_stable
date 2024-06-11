@@ -3,11 +3,14 @@ Creating a streamlit app for reviewing colonoscopy and pathology notes and filli
 
 # Team
 Me : ) with the longest name ever, Seyed Amir Ahmad Safavi-Naini
+
 Josh Mohess
+
 Ali Soroush
 
 # Project Summary
 1- We used streamlit to create an evaluation app
+
 2- Then we used node js, stlite, and electron to package this into a portable .exe (for windows) and dmg (for mac)
 
 # Acknowledgment and Developer Note: 
