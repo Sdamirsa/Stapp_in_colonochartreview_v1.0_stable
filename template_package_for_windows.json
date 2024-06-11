@@ -18,7 +18,12 @@
       "mac": {
         "target": ["dmg", "zip"],
         "icon": "assets/icon.ico"
+      },
+      "win": {
+        "target": "portable",
+        "icon":"assets/icon.ico"
       }
+      
     },
     "devDependencies": {
       "@stlite/desktop": "^0.57.0",
