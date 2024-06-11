@@ -1,0 +1,22 @@
+
+1- Install node.js 
+2- Run "npm install" in the project folder 
+3- Run "npm run dump "
+4- Run "npm run serve"
+! Note: There should be an app.py in the main folder 
+
+If you did anything incorrectly, after changing revising the code, you should 1- remove the packages-lock.json and build/ and node_modlules 2-  do 2,3 again
+"rm -rf node_modules\ package-lock.json"
+
+5- Create the package.json build key for the final of the project (windows, linux, etc). Look at https://www.electron.build/
+6- run npm dist
+6- DONE :)
+
+My debugs: 
+[we should let user upload]
+[changing some logic on st.session stat]
+[json is not a good thing to save the data]
+[how to download data]
+
+My notes:
+The whole app is ran in a sandbox, which means you can't autoamitcly read or write files. You should use st.upload_file and st.download_file instead.

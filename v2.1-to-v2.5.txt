@@ -1,0 +1,17 @@
+1- Minor REVISE: I fixed the height of container for the right column
+2- IMPORTANT REVISE: fixed the issue with lagging the selction (forcing user to select something twice)
+3- REVISE: Fixed some numercial boxes that were defined as drop down
+4- Minor REVISE: Improved some aesthetics 
+5- IMPORTANT REVISE: Corrected setting the empty object for integer-based variables (set them to zero instead of None) --> see: empty_batch and empty_specimen
+6- Minor REVISE: Changed the icon of the app 
+7- IMPORTANT REVISE: Corrected the way we show the text boxes (they should be appeared only when user select "other")
+
+# Bugs during test:
+8- [Corrected] hanlding mrn correctly
+9- [Corrected] saving the file after lock, while it also take effect
+10- [corrected] after 1 minute the remove batch or specimen will be corrupted
+
+
+
+11- Changed the way we handle loading csv and saving json (now we will store pickel and txt)
+12- Created the executable
