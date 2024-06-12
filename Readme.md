@@ -1,5 +1,5 @@
 # Project Aim
-Creating a streamlit app for reviewing colonoscopy and pathology notes and filling in a form for specimens and colonoscopy quality
+Creating a streamlit app for more efficient review of colonoscopy and pathology notes and filling in a form for specimens and colonoscopy quality
 
 # Team
 Me : ) with the longest name ever, Seyed Amir Ahmad Safavi-Naini
@@ -32,7 +32,7 @@ After finishing your streamlit app, here is your path:
 
 - 4- Run "npm run serve"
 
-- ! Note: There should be an app.py in the main folder (do not change the name or location as you should also change two other places. doesn't worth it : )
+- ! Note: There should be an app.py in the main folder (do not change the name or location as you should also change two other places. Not worth it : )
 
 - If you did anything incorrectly, after changing the code, you should 
     - 1- remove the packages-lock.json and build/ and node_modlules 
